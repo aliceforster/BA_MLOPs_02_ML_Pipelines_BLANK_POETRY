@@ -7,6 +7,7 @@ for models and logs, and paths to datasets.
 """
 import os
 
+
 # Define column structure based on the churn dataset
 TARGET_COLUMN = 'Churn'  # Target variable
 NUMERIC_COLUMNS = ['tenure', 'MonthlyCharges', 'TotalCharges']

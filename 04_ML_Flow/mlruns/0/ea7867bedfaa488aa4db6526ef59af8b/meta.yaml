@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/u218645/Documents/BA_MLOPs_02_ML_Pipelines_BLANK_POETRY/04_ML_Flow/mlruns/0/ea7867bedfaa488aa4db6526ef59af8b/artifacts
+end_time: 1755787063950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea7867bedfaa488aa4db6526ef59af8b
+run_name: caring-swan-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755787041880
+status: 3
+tags: []
+user_id: u218645

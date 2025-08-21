@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/u218645/Documents/BA_MLOPs_02_ML_Pipelines_BLANK_POETRY/04_ML_Flow/mlruns/609864508385135889/82b69625a8e3496d8a8a52de1d7b3f0c/artifacts
+end_time: 1755787391776
+entry_point_name: ''
+experiment_id: '609864508385135889'
+lifecycle_stage: active
+run_id: 82b69625a8e3496d8a8a52de1d7b3f0c
+run_name: Logistic Regression_CV_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755787374264
+status: 3
+tags: []
+user_id: u218645

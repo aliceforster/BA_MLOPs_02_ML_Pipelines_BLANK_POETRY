@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/u218645/Documents/BA_MLOPs_02_ML_Pipelines_BLANK_POETRY/04_ML_Flow/mlruns/609864508385135889/models/m-4d413ba8d9e44a65aa127721a7751df4/artifacts
+creation_timestamp: 1755787375625
+experiment_id: '609864508385135889'
+last_updated_timestamp: 1755787391688
+model_id: m-4d413ba8d9e44a65aa127721a7751df4
+model_type: null
+name: final_model_pipeline
+source_run_id: 82b69625a8e3496d8a8a52de1d7b3f0c
+status: 2
+status_message: null

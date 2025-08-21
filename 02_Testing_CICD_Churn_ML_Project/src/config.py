@@ -1,5 +1,5 @@
 """
-config.py 
+config.py
  
 This script stores configuration variables and constants used across the ML project.
 It includes definitions for column names, test sizes, random states, and file names

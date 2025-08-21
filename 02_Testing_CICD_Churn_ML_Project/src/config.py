@@ -6,6 +6,7 @@ It includes definitions for column names, test sizes, random states, and file na
 for models and logs, and paths to datasets.
 """
 import os
+
  
 # Define column structure based on the churn dataset
 TARGET_COLUMN: str = 'Churn'  # Target variable

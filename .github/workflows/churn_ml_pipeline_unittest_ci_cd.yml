@@ -18,7 +18,7 @@ jobs:
     defaults:
       run:
         # Set the working directory to the project root within the repository
-        working-directory: "02 Building & Integrating ML Pipelines/churn_ml_project_unittest"
+        working-directory: "02_Testing_CICD_Churn_ML_Project"
 
     steps:
     - name: Checkout Repository
